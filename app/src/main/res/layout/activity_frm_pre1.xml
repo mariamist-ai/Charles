@@ -44,7 +44,7 @@
                 android:id="@+id/textView"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="@string/txtdia1" />
+                android:text="Día:" />
 
             <EditText
                 android:id="@+id/txtdia1"
@@ -63,7 +63,7 @@
                 android:id="@+id/textView2"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="@string/txtmes1" />
+                android:text="Mes:" />
 
             <EditText
                 android:id="@+id/txtmes1"
@@ -81,7 +81,7 @@
                 android:id="@+id/textView3"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="@string/txtanio1" />
+                android:text="Año:" />
 
             <EditText
                 android:id="@+id/txtanio1"
@@ -100,7 +100,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:onClick="EdadPersona"
-                android:text="@string/button5" />
+                android:text="Calcular Edad" />
 
             <EditText
                 android:id="@+id/txtrespuesta1"
