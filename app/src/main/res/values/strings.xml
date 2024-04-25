@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Charles</string>
+
+    <string name="button">Ejercicio 01</string>
+    <string name="button2">Ejercicio 02</string>
+    <string name="button3">Ejercicio 03</string>
+    <string name="button4">Salir</string>
+
+    <string name="txtdia1">Día</string>
+    <string name="txtmes1">Mes</string>
+    <string name="txtanio1">Año</string>
+    <string name="button5">Calcular Edad</string>
+    <string name="button6">Inicio</string>
+
+    <string name="txtN12">N1</string>
+    <string name="txtN22">N2</string>
+    <string name="txtN32">N3</string>
+    <string name="txtN42">N4</string>
+    <string name="txtN52">N5</string>
+    <string name="txtN62">N6</string>
+    <string name="btncalmayor">Calcular Mayor</string>
+    <string name="TextView12">Mayor:</string>
+
+    <string name="button7">Calcular Triangulo</string>
+    <string name="txtl1">Lado 1</string>
+    <string name="txtl2">Lado 2</string>
+    <string name="txtl3">Lado 3</string>
+
+</resources>
