@@ -12,7 +12,7 @@
         android:layout_width="223dp"
         android:layout_height="42dp"
         android:onClick="Inicio"
-        android:text="@string/button6"
+        android:text="Inicio"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -37,7 +37,7 @@
                 android:id="@+id/txtN12"
                 android:layout_width="50dp"
                 android:layout_height="wrap_content"
-                android:text="@string/txtN12" />
+                android:text="N1:" />
 
             <EditText
                 android:id="@+id/editTextNumber4"
@@ -50,7 +50,7 @@
                 android:id="@+id/txtN22"
                 android:layout_width="50dp"
                 android:layout_height="wrap_content"
-                android:text="@string/txtN22" />
+                android:text="N2:" />
 
             <EditText
                 android:id="@+id/editTextNumber5"
@@ -63,7 +63,7 @@
                 android:id="@+id/txtN32"
                 android:layout_width="50dp"
                 android:layout_height="wrap_content"
-                android:text="@string/txtN32" />
+                android:text="N3:" />
 
             <EditText
                 android:id="@+id/editTextNumber6"
@@ -82,7 +82,7 @@
                 android:id="@+id/txtN42"
                 android:layout_width="50dp"
                 android:layout_height="wrap_content"
-                android:text="@string/txtN42" />
+                android:text="N4:" />
 
             <EditText
                 android:id="@+id/editTextNumber7"
@@ -95,7 +95,7 @@
                 android:id="@+id/txtN52"
                 android:layout_width="50dp"
                 android:layout_height="wrap_content"
-                android:text="@string/txtN52" />
+                android:text="N5:" />
 
             <EditText
                 android:id="@+id/editTextNumber8"
@@ -108,7 +108,7 @@
                 android:id="@+id/txtN62"
                 android:layout_width="50dp"
                 android:layout_height="wrap_content"
-                android:text="@string/txtN62" />
+                android:text="N6:" />
 
             <EditText
                 android:id="@+id/editTextNumber9"
@@ -139,7 +139,7 @@
             android:id="@+id/btncalmayor"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/btncalmayor" />
+            android:text="Calcular Mayor" />
 
         <TableRow
             android:layout_width="match_parent"
@@ -149,7 +149,7 @@
                 android:id="@+id/textView12"
                 android:layout_width="72dp"
                 android:layout_height="wrap_content"
-                android:text="@string/TextView12" />
+                android:text="Mayor:" />
 
             <EditText
                 android:id="@+id/editTextText6"

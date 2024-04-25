@@ -12,7 +12,7 @@
         android:layout_width="160dp"
         android:layout_height="41dp"
         android:onClick="Inicio"
-        android:text="@string/button6"
+        android:text="Inicio"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.498"
@@ -39,7 +39,7 @@
                 android:id="@+id/button7"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="@string/button7" />
+                android:text="Calcular" />
 
             <EditText
                 android:id="@+id/txtRespuesta3"
@@ -68,7 +68,7 @@
                 android:id="@+id/txtl1"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="@string/txtl1" />
+                android:text="Lado 1:" />
 
             <EditText
                 android:id="@+id/editTextNumber10"
@@ -87,7 +87,7 @@
                 android:id="@+id/txtl2"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="@string/txtl2" />
+                android:text="Lado 2:" />
 
             <EditText
                 android:id="@+id/editTextNumber11"
@@ -105,7 +105,7 @@
                 android:id="@+id/txtl3"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="@string/txtl3" />
+                android:text="Lado 3:" />
 
             <EditText
                 android:id="@+id/editTextNumber12"
